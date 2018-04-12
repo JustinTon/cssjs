@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://vnmercedes.com';
+	var url_popup = 'https://bit.ly/2qr5W9f';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
